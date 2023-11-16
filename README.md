@@ -1,6 +1,8 @@
 # Pawlished
 
-[🪪🍻 ¿Quiénes son JA^2? 🍻🪪](https://github.com/Intro-CompuMovil/Pawlished/wiki)
+### ¿Quiénes somos? 👤
+
+Este proyecto fue desarollado por Alejandro Suarez, Juan Esteban Granada y Alejandro Roa, podras encontrar mas información [aqui](https://github.com/suaracost/Pawlished-Final/wiki).
 
 ### Idea del proyecto 💡
 
